@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-somatosensory-h-reflex-recovery-curve-excitability-skill",
+  "version": "1.0.0",
+  "description": "Calculates Hoffmann Reflex (H-reflex) paired-pulse recovery ratios (H2/H1%), Early Depression Index, and Central Spinal Disinhibition Index across inter-stimulus intervals.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "neurophysiology",
+    "h-reflex",
+    "spinal-cord",
+    "motoneuron",
+    "excitability",
+    "spasticity",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
